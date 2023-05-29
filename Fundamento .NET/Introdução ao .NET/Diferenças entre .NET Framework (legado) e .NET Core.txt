@@ -1,0 +1,3 @@
+Diferenças entre .NET Framework (legado) e .NET Core
+
+O dotNET Framework é unicamente usado para a plataforma Windows, enquanto o . NET Core é um cross-platform. Isso significa dizer que sua aplicação é feita em mais de uma plataforma, como o Windows, Linux e MacOS.
