@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\bin\Debug\net7.0\Sintaxe e Tipos de Dados em C#.exe
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\bin\Debug\net7.0\Sintaxe e Tipos de Dados em C#.deps.json
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\bin\Debug\net7.0\Sintaxe e Tipos de Dados em C#.runtimeconfig.json
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\bin\Debug\net7.0\Sintaxe e Tipos de Dados em C#.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\bin\Debug\net7.0\Sintaxe e Tipos de Dados em C#.pdb
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.AssemblyInfo.cs
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\refint\Sintaxe e Tipos de Dados em C#.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.pdb
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.genruntimeconfig.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em C#\obj\Debug\net7.0\ref\Sintaxe e Tipos de Dados em C#.dll
