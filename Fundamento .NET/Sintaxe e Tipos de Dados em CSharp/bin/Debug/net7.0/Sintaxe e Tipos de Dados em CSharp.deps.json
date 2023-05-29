@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sintaxe e Tipos de Dados em CSharp/1.0.0": {
+        "runtime": {
+          "Sintaxe e Tipos de Dados em CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sintaxe e Tipos de Dados em CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

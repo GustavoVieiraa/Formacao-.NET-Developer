@@ -1,0 +1,5 @@
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em CSharp\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em CSharp\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em CSharp\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em CSharp\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.AssemblyInfo.cs
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Sintaxe e Tipos de Dados em CSharp\obj\Debug\net7.0\Sintaxe e Tipos de Dados em C#.csproj.CoreCompileInputs.cache
