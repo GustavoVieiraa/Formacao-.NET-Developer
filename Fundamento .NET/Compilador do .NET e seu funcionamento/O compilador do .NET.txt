@@ -1,0 +1,11 @@
+O processo de compilação do JIT tem 6 passos, são eles:
+
+Procurar nos metadados o método que está sendo chamado.
+A partir dos metadados, trazer a IL referente a esse método.
+Alocar memória.
+Compile a IL para código de máquina e salve na memória alocada.
+Vá nos metadados novamente e troque a informação que me disse aonde estava a IL referente ao método em questão pela informação do endereço de memória alocado no passo3.
+Desvie para o agora código nativo que está salvo na memória.
+Simples né? Pra que ficar executando toda vez a mesma coisa sendo que eu posso salvar o que foi feito na primeira vez? Rs
+
+Aqui eu finalizo o primeiro post da serie .Net Framework, já temos uma noção do que é formado o Framework e como funciona a compilação das linguagens .Net. No próximo post eu falarei um pouco mais sobre CLR e FCL, consequentemente os assuntos tratados acarretarão na explicação do Common Type System (CTS) e da Common Language Specification (CLS).
