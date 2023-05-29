@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\bin\Debug\net7.0\Tipos de Operadores em CSharp.exe
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\bin\Debug\net7.0\Tipos de Operadores em CSharp.deps.json
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\bin\Debug\net7.0\Tipos de Operadores em CSharp.runtimeconfig.json
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\bin\Debug\net7.0\Tipos de Operadores em CSharp.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\bin\Debug\net7.0\Tipos de Operadores em CSharp.pdb
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.AssemblyInfo.cs
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\refint\Tipos de Operadores em CSharp.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.pdb
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\Tipos de Operadores em CSharp.genruntimeconfig.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Tipos de Operadores em CSharp\obj\Debug\net7.0\ref\Tipos de Operadores em CSharp.dll
