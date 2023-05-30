@@ -29,3 +29,18 @@ Console.WriteLine(tValor);
 int inteiroValor = 120;
 string aString  = inteiroValor.ToString();
 Console.WriteLine(aString);
+
+// Conversão de maneira segura
+Console.WriteLine("=---------------= Teste =---------------=");
+string y = "53186988837";
+long resultY = 0;
+
+long.TryParse(y, out resultY);
+if (resultY == 0) {
+    Console.WriteLine("Operação Finalizada, não foi convertido, pois foi encontrado um ERRO!");
+
+} else {
+    Console.WriteLine(resultY);
+    Console.WriteLine("Operação Finalizada, com êxito!");
+}
+
