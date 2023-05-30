@@ -24,3 +24,8 @@ Console.WriteLine(tValor);
 /*  Convert aceita valores Null para conversão
     Parse não aceita valores Null para conversão.
 */
+
+// Conversão To String
+int inteiroValor = 120;
+string aString  = inteiroValor.ToString();
+Console.WriteLine(aString);
