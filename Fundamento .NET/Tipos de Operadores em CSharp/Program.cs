@@ -44,3 +44,18 @@ if (resultY == 0) {
     Console.WriteLine("Operação Finalizada, com êxito!");
 }
 
+// Aplicando Operador condicional na prática
+Console.WriteLine("=----------- LOJA -----------=");
+int CamisasDisponiveis = 10;
+int CamisasSolicitadas = 11;
+bool possivelVenda = CamisasDisponiveis >= CamisasSolicitadas;
+
+if (possivelVenda) {
+    Console.WriteLine("Você pode realizar a compra!");
+    Console.WriteLine($"Estoque: {CamisasDisponiveis}");
+    Console.WriteLine($"Camisas Solicitadas: {CamisasSolicitadas}");
+    Console.WriteLine("=-----------------------------=");
+} else {
+    Console.WriteLine("Você não pode realizar a compra! \n Estoque Indisponível!");
+    Console.WriteLine("=-----------------------------=");
+}
