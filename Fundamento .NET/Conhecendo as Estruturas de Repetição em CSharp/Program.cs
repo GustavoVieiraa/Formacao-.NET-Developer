@@ -9,3 +9,14 @@ testeTabFor.chamadaTabuadaFor(3);
 Console.WriteLine("=------ Esturura WHILE ------=");
 Tabuada testeTabWhile = new Tabuada();
 testeTabWhile.chamadaTabuadaWhile(7);
+
+Console.WriteLine("=----- Estrutura DO WHILE ------=");
+
+do {
+Console.WriteLine("Digite um número: ");
+int num = Convert.ToInt32(Console.ReadLine());
+num += num;
+if (num > 1000) {
+    break;
+}
+} while(true);
