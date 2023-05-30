@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\bin\Debug\net7.0\Operadores Aritméticos em CSharp.exe
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\bin\Debug\net7.0\Operadores Aritméticos em CSharp.deps.json
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\bin\Debug\net7.0\Operadores Aritméticos em CSharp.runtimeconfig.json
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\bin\Debug\net7.0\Operadores Aritméticos em CSharp.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\bin\Debug\net7.0\Operadores Aritméticos em CSharp.pdb
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.AssemblyInfo.cs
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\refint\Operadores Aritméticos em CSharp.dll
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.pdb
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\Operadores Aritméticos em CSharp.genruntimeconfig.cache
+C:\xampp\htdocs\Formacao-.NET-Developer\Fundamento .NET\Operadores Aritméticos em CSharp\obj\Debug\net7.0\ref\Operadores Aritméticos em CSharp.dll
